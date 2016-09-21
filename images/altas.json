@@ -1,0 +1,36 @@
+{"frames": {
+
+"1.jpg":
+{
+	"frame": {"x":0,"y":0,"w":64,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":62},
+	"sourceSize": {"w":64,"h":62}
+},
+"2.jpg":
+{
+	"frame": {"x":0,"y":62,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"cat.png":
+{
+	"frame": {"x":0,"y":126,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "altas.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":190},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0d63546a6534c6846030f8cecc33f571:f03f07978b71389a51be8fe577d1bb5e:6f824373f1c1ec0d96cce5f49d42d62b$"
+}
+}
